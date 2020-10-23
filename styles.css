@@ -1902,6 +1902,8 @@ video {
 
 .bg-cover {
   background-size: cover;
+  background-position: 0px -293px;
+  background-blend-mode: multiply;
 }
 
 .border-gray-500 {
